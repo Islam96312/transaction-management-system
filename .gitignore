@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node.js
+node_modules/
+bundle.js
+*.log
